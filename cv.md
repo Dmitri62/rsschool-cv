@@ -49,7 +49,7 @@ Code example
     margin: 50px auto; 
     box-shadow: 10px 10px 20px black;
     background-color: white; 
-    font-family:  "Arial"; 
+    font-family:  "Times new roman"; 
   }
 </style>
                  <div>

@@ -76,8 +76,4 @@ EPAM online course 2020Q3, (Luxsoft Ltd- QA tester/Front-end online seminars, IT
 English level:C2 ( JOB-technical/written/oral translations) 1999-2018.
 ISO 14001 course.BVQI, Moscow. Lead ISO 14001 auditor certificate.
 English level:C2
-                    <h2 class="card-subtitle">GOAL</h2>
-
-                <p>Smart Web user, apps. Start up to gain initial experience as a Junior Developer. Expect to mobilize my present potential to learn fast. Today online studies require self motivation and flexibility to get expertise without class. To be competitive means always learning new things from everywhere ahead of others.
-My strong side is precision, flexibility, fluent English. Technical translations in various fields
-                </p>
+                   

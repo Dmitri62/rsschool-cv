@@ -5,7 +5,7 @@ Russia, St.Petersburg, Polustrivo Pr.
 
 E-mail:0255tepl@gmail.com
 Skype:dt1962
-Telegram: Mitri877
+
 
 Strong motivation to start as Junior developer career with final goal-QA as it's very important today with big employment market. 
 

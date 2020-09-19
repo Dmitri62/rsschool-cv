@@ -19,56 +19,7 @@ Skills:
 
 Experience:
 
-QA dept. manager in AWATERA translation agency in 2018-2019. Passed coding tests, projects from courses given below. Test tags bugs for SDL Trados 2011-2017.
-List of companies I was employed
-https://egotranslating.com/en/
-http://www.trans-tech.ru/en/about-us/
-http://www.translink-24.com
-
-Background:
-EPAM online course 2020Q3 in progress, (Luxsoft Ltd- QA tester/Frontend online seminars, ITVDN C#/JavaScript online course).
-English level:C2.
-Lead ISO 14001 auditor BVQI, Moscow.
-
-WEB resources
-https://www.w3schools.com
-https://github.com
-
-Code example
-`<!doctype html>
-    <body>
-
-<title>CV</title>
-<style>
-  body { background-color: #DCC7C7; } /* общий фон */
-
-  div {
-    width: 600px;   
-    height: 900px; 
-    padding: 10px 20px 40px 50px; 
-    margin: 50px auto; 
-    box-shadow: 10px 10px 20px black;
-    background-color: white; 
-    font-family:  "Times new roman"; 
-  }
-</style>
-                 <div>
-                <h2 class="card-subtitle">DMITRI TEPLASHOV</h2>
-                <hr>
-                 <h2 class="card-subtitle">CONTACT INFO:</h2>
-                <p> Tel.:  <a href="tel.+79533414480">+79533414480</a></p>
-                <p> E-mail:  <a
-                href="mail to:0255tepl@mail.ru">0255tepl@gmail.com</a>
-               <P>Skype: <a href="DT 1962">DT1962</a>
-                    </P>
-                     </p>
-                    <ul>
-                    <li><b>Strong motivation to start a career of Front End developer with QA later.
-                        </b></li>
-                </ul>
-
-                        <h2 class="card-subtitle">WORK SUMMARY</h2>
-                        <p>Translator in Transtech Ltd, Ego translating, Translink Ltd from 1999-2019.
+                        Translator in Transtech Ltd, Ego translating, Translink Ltd from 1999-2019.
 Work onsite in India, Norway, Finland, UAE, Namibia.
 QA dept manager in AWATERA translation agency in 2018-2019.
 

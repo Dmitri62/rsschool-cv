@@ -1,5 +1,5 @@
 
-### Dmitry Teplashov, b.1962
+Dmitry Teplashov,
 Russia, St.Petersburg
 
 CONTACT INFO:

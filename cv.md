@@ -71,7 +71,9 @@ Code example
                         <p>Translator in Transtech Ltd, Ego translating, Translink Ltd from 1999-2019.
 Work onsite in India, Norway, Finland, UAE, Namibia.
 QA dept manager in AWATERA translation agency in 2018-2019.
+
 BACKGROUND
+
 EPAM online course 2020Q3, (Luxsoft Ltd- QA tester/Front-end online seminars, ITVDN C#/JavaScript/HTML online courses).
 English level:C2 ( JOB-technical/written/oral translations) 1999-2018.
 ISO 14001 course.BVQI, Moscow. Lead ISO 14001 auditor certificate.

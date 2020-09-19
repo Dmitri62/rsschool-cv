@@ -17,7 +17,7 @@ Code examples: in attached files
 
 Experience: QA dept. manager in AWATERA translation agency in 2018-2019. Passed coding tests, projects from courses given below. Codes for SDL Trados 2011 for tag apps.
 
-Education: EPAM online course 2020, (Luxsoft Ltd- QA tester/Frontend online seminars, ITVDN C#/JavaScript online course).
+Education: EPAM online course 2020 /https://app.rs.school/course/student/(Luxsoft Ltd- QA tester/Frontend online seminars, ITVDN C#/JavaScript online course).
 English level:C2 (technical/written translations (2008-2019), oral translations on operating sites 1999-2018.
 
 Lead ISO 14001 auditor BVQI, Moscow.

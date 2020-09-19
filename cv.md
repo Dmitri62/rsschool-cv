@@ -23,7 +23,7 @@ QA dept. manager in AWATERA translation agency in 2018-2019. Passed coding tests
 List of companies I was employed
 https://egotranslating.com/en/
 http://www.trans-tech.ru/en/about-us/
-http://www.awatera.com
+http://www.translink-24.com
 
 Background:
 EPAM online course 2020Q3 in progress, (Luxsoft Ltd- QA tester/Frontend online seminars, ITVDN C#/JavaScript online course).

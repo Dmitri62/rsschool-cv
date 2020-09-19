@@ -25,3 +25,9 @@ Lead ISO 14001 auditor BVQI, Moscow.
 Strong motivation to start as Junior developer career with final goal-QA as it's very important today with big employment market.
 Smart Web user, easy navigating in apps. Start to collect my initial experience as a Junior Developer. Expect to mobilize my past potential to learn fast. Nowadays online studies require self motivation and flexibility to get expertise w/t help. To be in demand and competitive means always learning new things from everywhere ahead of others.
 My strong side is precision, attention to detail, fluent English level C2+.
+Code example To be added later
+
+
+
+
+
